@@ -1,0 +1,114 @@
+@charset "UTF-8";
+.logo {
+	height: 3.5rem;
+	width: 3.5rem;
+	margin: 0.35rem 0.5rem 0 0;
+	vertical-align: top;
+}
+	
+.shorten {
+	width: 100% !important;
+	margin: 0 auto !important;
+}
+	
+.material-icons {
+	margin-left: 0.5rem;
+} 
+
+.btn {
+	margin-left: 0.25rem
+}
+
+.profile-pic {
+	width: 4rem !important;
+	height: 4rem !important;
+	margin-right: 1rem !important;
+}
+
+.username {
+	font-size: 1.2em;
+	margin-left: 1rem !important;
+	color: black !important;
+}
+
+.com {
+	margin-left: 1.5rem;
+}
+
+#main {
+	margin-top: 2rem !important;
+}
+	
+.resize {
+	width: 100% !important;
+	height: 25rem !important;
+}
+
+.collection {
+	border: none !important;
+}
+	
+.collection-item {
+	border: none !important;
+	margin: 0.5rem 0 !important;
+}
+	
+.see {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.black-link {
+	color: black;
+}
+
+A:link {
+	color: black;
+}
+
+A:hover {
+	color: aqua;
+}
+
+.white-font {
+	color: white !important;
+}
+
+.gold-font {
+	color: orange !important;
+}
+
+form {
+	display: inline-block;
+}
+	
+.users-pic {
+	height: 3rem !important;
+	width: 3rem !important;
+	margin-right: 1rem;
+}
+
+.side {
+	padding: 2rem !important;
+}
+
+.mid {
+	margin: 0 auto !important;
+}
+
+.marg {
+	margin-right: 1rem;
+}
+
+.comm {
+	margin-left: 1rem !important;
+}
+
+.it {
+	display: block;
+}
+
+.rside {
+	padding: 2rem 4rem !important;
+}
+

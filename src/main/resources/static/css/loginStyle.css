@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#main-content {
+	margin-top: 3rem;
+	padding: 1rem;
+}
+
+.btn {
+	margin-top: 2rem;
+}
+
+.forgot {
+	color: blue;
+}
+
+.errors {
+	color: red;
+}
